@@ -1,6 +1,6 @@
 
 {
-  "name": "Chinese Drama Episodes",
+  "name": "Chinese Drama ",
   "short_name": "Drama",
   "start_url": "/",
   "display": "standalone",
